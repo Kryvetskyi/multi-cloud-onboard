@@ -3,6 +3,9 @@
 # multi-cloud-onboard
 Working with aws, azure and gcp
 
+Create venv
+Create scaffolding
+
 
 * Makefile
 * hello.py
